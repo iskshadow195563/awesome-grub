@@ -30,3 +30,12 @@
 ![whitesur-grub-theme](https://github.com/iammrmehedi/Awesome-Grub/blob/main/Modern_Grub2_Themes/whitesur-grub-theme.png)
 
 <p align="center"><a href="#">Pling</a> | <a href="#">GNOME-LOOK.ORG</a> | <a href="#">Opendesktop.org</a> </p>
+
+<hr>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+  Catppuccin <a href="https://www.gnu.org/software/grub/">Grub</a> Themes
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
+<hr>
