@@ -15,4 +15,7 @@
   Catppuccin <a href="https://www.gnu.org/software/grub/">Grub</a> Themes
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
+
+<p align="center"><a href="https://github.com/catppuccin/grub">Repository</a> | <a href="https://github.com/vinceliuice/grub2-themes#readme">Documentation</a>
+
 <hr>
