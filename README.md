@@ -9,7 +9,7 @@ Collection of Awesome Grub Bootloader Themes
 [Github](https://github.com/vinceliuice/grub2-themes)
 
 
-### Screenshots
+### Tela
 
-![Modern-Grub-Theme](https://raw.githubusercontent.com/vinceliuice/grub2-themes/master/preview.png)
+![Tela-Grub-Theme](https://raw.githubusercontent.com/iammrmehedi/Awesome-Grub/main/Tela-grub-theme.png)
 
