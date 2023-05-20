@@ -11,5 +11,5 @@ Collection of Awesome Grub Bootloader Themes
 
 ### Tela
 
-![Tela-Grub-Theme](https://raw.githubusercontent.com/iammrmehedi/Awesome-Grub/main/Tela-grub-theme.png)
+![Tela-Grub-Theme](https://github.com/iammrmehedi/Awesome-Grub/blob/main/Tela-grub-theme.png)
 
