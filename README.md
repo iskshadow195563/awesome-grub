@@ -9,29 +9,6 @@
 
 <hr>
 
-![tela-grub-theme](https://github.com/iammrmehedi/Awesome-Grub/blob/main/Modern_Grub2_Themes/tela-grub-theme.png)
-
-<p align="center"><a href="https://www.pling.com/p/1307852">Pling</a> | <a href="https://www.gnome-look.org/p/1307852">GNOME-LOOK.ORG</a> | <a href="https://www.opendesktop.org/p/1307852">Opendesktop.org</a> </p>
-
-<hr>
-
-![stylish-grub-theme](https://github.com/iammrmehedi/Awesome-Grub/blob/main/Modern_Grub2_Themes/stylish-grub-theme.png)
-
-<p align="center"><a href="https://www.pling.com/p/1009237">Pling</a> | <a href="https://www.gnome-look.org/p/1009237">GNOME-LOOK.ORG</a> | <a href="https://www.opendesktop.org/p/1009237">Opendesktop.org</a> </p>
-
-<hr>
-
-![vimix-grub-theme](https://github.com/iammrmehedi/Awesome-Grub/blob/main/Modern_Grub2_Themes/vimix-grub-theme.png)
-
-<p align="center"><a href="https://www.pling.com/p/1009236">Pling</a> | <a href="https://www.gnome-look.org/p/1009236">GNOME-LOOK.ORG</a> | <a href="https://www.opendesktop.org/p/1009236">Opendesktop.org</a> </p>
-
-<hr>
-
-![whitesur-grub-theme](https://github.com/iammrmehedi/Awesome-Grub/blob/main/Modern_Grub2_Themes/whitesur-grub-theme.png)
-
-<p align="center"><a href="#">Pling</a> | <a href="#">GNOME-LOOK.ORG</a> | <a href="#">Opendesktop.org</a> </p>
-
-<hr>
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
